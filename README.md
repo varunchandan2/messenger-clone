@@ -1,2 +1,0 @@
-# messenger-clone
-React JS
